@@ -21,3 +21,6 @@ git commit -am "comenzi de configurare"
 
 modificarea mesajului in ultimul commit
 git commit --amend
+
+
+git commit # mesaj interactiv
