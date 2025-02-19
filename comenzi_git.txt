@@ -24,3 +24,5 @@ git commit --amend
 
 
 git commit # mesaj interactiv
+
+#modificare de pe server!!!!1
