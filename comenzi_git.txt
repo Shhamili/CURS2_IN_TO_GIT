@@ -1,0 +1,2 @@
+git init # initializeaza proiectul de git local, creaza un folder .git ascuns
+git clone  https://github.com/username/project descarca un proiect de git
