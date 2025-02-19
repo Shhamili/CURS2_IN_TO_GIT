@@ -1,2 +1,15 @@
 git init # initializeaza proiectul de git local, creaza un folder .git ascuns
 git clone  https://github.com/username/project descarca un proiect de git
+
+
+git log # lista de commituri
+git log --oneline
+git status # arata statusul fisierelor(cele schimbate)
+git status -s
+
+#comenzi de creare a commituri
+
+git add filename
+git add .
+git add filename.#
+git add filename1 filename2 filename3
